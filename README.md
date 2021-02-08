@@ -15,5 +15,9 @@ Operator
  All the results will be correct, except for these few:
 
  45 * 3 = 555
+ 
+ 
  56+9 = 77
+ 
+ 
  56/6 = 4
